@@ -28,10 +28,23 @@ The code is in the form of simple scripts for the [paper](https://arxiv.org/pdf/
 ## Datasets
 - [Steady N-S datasets](https://github.com/Raocp/PINN-laminar-flow/blob/master/PINN_steady/uvNN.pickle)
 - [Unsteady N-S datasets](https://github.com/maziarraissi/PINNs/blob/master/main/Data/cylinder_nektar_wake.mat)
-The two datasets are also included in the repository.
+  The two datasets are also included in the repository.
   
 ## Citations
 
 ```
-To be appear.
+
+@misc{pengRobustRegressionHighly2022,
+	title = {Robust {Regression} with {Highly} {Corrupted} {Data} via {Physics} {Informed} {Neural} {Networks}},
+	url = {http://arxiv.org/abs/2210.10646},
+	doi = {10.48550/arXiv.2210.10646},
+	urldate = {2022-10-20},
+	publisher = {arXiv},
+	author = {Peng, Wei and Yao, Wen and Zhou, Weien and Zhang, Xiaoya and Yao, Weijie},
+	month = oct,
+	year = {2022},
+	note = {arXiv:2210.10646 [cs, math]},
+	keywords = {Computer Science - Machine Learning, Mathematics - Numerical Analysis},
+}
+
 ```
